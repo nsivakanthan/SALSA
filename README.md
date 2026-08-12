@@ -32,3 +32,7 @@ The following code files are used for Elastic Registration:
   - srnf_reg.py - Register shapes and obtain means on a per shape level.
   
   - srnf_reg_all.py - Register shapes and obtain means pooled between vertebrae and discs, respectively.
+
+# Results:
+
+To see the full results, feel free to read our paper or visit this website!
