@@ -20,15 +20,15 @@ Lorem ipsum...
 
 ### Shape Variation
 
-<video controls width="800">
+<video controls width="400">
   <source src="videos/vertebra41_direction1_scale.mp4" type="video/mp4">
 </video>
 
-<video controls width="800">
+<video controls width="400">
   <source src="videos/vertebra41_direction2_scale.mp4" type="video/mp4">
 </video>
 
-<video controls width="800">
+<video controls width="400">
   <source src="videos/vertebra41_direction3_scale.mp4" type="video/mp4">
 </video>
 
@@ -42,11 +42,11 @@ We evaluate the quality of the PCA-based shape representations by generating syn
 
 ### Principal Component Shape Regression
 
-<video controls width="800">
+<video controls width="400">
   <source src="videos/Disc_Narrowing_41_91_t2.mp4" type="video/mp4">
 </video>
 
-<video controls width="800">
+<video controls width="400">
   <source src="videos/Disc_Narrowing_91_91_t2.mp4" type="video/mp4">
 </video>
 
