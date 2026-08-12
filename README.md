@@ -3,6 +3,10 @@ Shape Analysis for Lumbar Spine Assessments
 
 This repository contains the code and displays some results of the SALSA pipeline. We apply this pipeline to two publicly available datasets: 1.) RSNA-LumbarDisc dataset 2.) SPIDER dataset.
 
+# Results:
+
+To see the full results with explanation, feel free to read our paper or visit this website!
+
 # Pipeline
 
 ![SALSA Pipeline](Images/Methodology.png)
@@ -32,7 +36,3 @@ The following code files are used for Elastic Registration:
   - srnf_reg.py - Register shapes and obtain means on a per shape level.
   
   - srnf_reg_all.py - Register shapes and obtain means pooled between vertebrae and discs, respectively.
-
-# Results:
-
-To see the full results with explanation, feel free to read our paper or visit this website!
