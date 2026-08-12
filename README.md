@@ -5,6 +5,8 @@ This repository contains the code and displays some results of the SALSA pipelin
 
 # Pipeline
 
+![SALSA Pipeline](Images/Methodology.pdf)
+
 The main code file is main.py which runs the following files (order matters):
 
   - mesh.py - Extracts shapes (triangluar meshes; .ply files) from MRIs (.nii.gz files) using totalspineseg from the spinal cord toolbox (SCT) (must download and use specific version of totalspineseg).
