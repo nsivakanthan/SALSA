@@ -3,9 +3,9 @@ Shape Analysis for Lumbar Spine Assessments
 
 This repository contains the code and displays some results of the SALSA pipeline. We apply this pipeline to two publicly available datasets: 1.) RSNA-LumbarDisc dataset 2.) SPIDER dataset.
 
-The main code file is main.py which runs the following files (order matters):
+- The main code file is main.py which runs the following files (order matters):
 
-  1.) mesh.py - Extracts shapes (triangluar meshes; .ply files) from MRIs (.nii.gz files) using totalspineseg from the spinal cord toolbox (SCT) (must download and use specific version of totalspineseg).
+  - 1.) mesh.py - Extracts shapes (triangluar meshes; .ply files) from MRIs (.nii.gz files) using totalspineseg from the spinal cord toolbox (SCT) (must download and use specific version of totalspineseg).
   
   2.) reg.py - Cleans and initial alignment of shapes of the lumbar spine. Can also be used to perform Hungarian/Jonker-Volgenant registration of shapes.
   
