@@ -2,12 +2,7 @@
 
 ## The SALSA Pipeline
 
-<iframe
-    src="Images/Methodology.pdf"
-    width="100%"
-    height="800px"
-    style="border: none;">
-</iframe>
+![SALSA Pipeline](Images/Methodology.png)
 
 ## Elastic Matching
 
