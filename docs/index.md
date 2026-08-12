@@ -1,4 +1,4 @@
-# SALSA (Shape Analysis for Lumbar Spine Assessments)
+# Shape Analysis for Lumbar Spine Assessments
 
 ## The SALSA pipeline:
 
