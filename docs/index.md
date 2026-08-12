@@ -1,6 +1,6 @@
 # Shape Analysis for Lumbar Spine Assessments
 
-## The SALSA pipeline:
+## The SALSA Pipeline
 
 ![SALSA Pipeline](Images/Methodology.pdf)
 
