@@ -6,7 +6,7 @@ Statistical Shape Analysis with Elastic Matching of Toroidal Surfaces
 
 ---
 
-![SALSA Pipeline](images/pipeline.png)
+![SALSA Pipeline](Images/Methodology.pdf)
 
 ## Overview
 
