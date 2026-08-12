@@ -1,5 +1,19 @@
 site_name: SALSA
 site_description: Shape Analysis for Lumbar Spine Assessments
 
+repo_name: nsivakanthan/SALSA
+repo_url: https://github.com/nsivakanthan/SALSA
+
 theme:
   name: material
+
+  # logo: images/salsa-logo.gif
+  # favicon: images/salsa-icon.png
+
+  features:
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+
+nav:
+  - Home: index.md
