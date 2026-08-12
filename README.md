@@ -2,7 +2,7 @@
 Shape Analysis for Lumbar Spine Assessments
 
 This repository contains the code and displays some results of the SALSA pipeline. We apply this pipeline to two publicly available datasets: 1.) RSNA-LumbarDisc dataset 2.) SPIDER dataset.
-
+https://github.com/nsivakanthan/SALSA/blob/main/README.md
 # Results:
 
 To see the full results with explanation, feel free to read our paper or visit this website!
@@ -28,6 +28,9 @@ The main code file is main.py which runs the following files (order matters):
 # Elastic Registration w/ SRNF:
 
 ![SALSA Pipeline](Images/torus_param.jpg)
+<p align="center">
+  <img src="Images/torus_param.jpg" width="700">
+</p>
 
 The main theoretical contribution of this work comes from improvement of results using Elastic registration. We employ code developed by ____ and _____ to register vertebra and discs using the SRNF. This required downloading code from their github repository and making minimal adjustments to change which functions were being used. In addition, a specific conda environment must be managed to run their code revolved around the PyKeops package. Their code also requires a linux system to run (can also use WSL). 
 
