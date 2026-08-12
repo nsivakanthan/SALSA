@@ -42,6 +42,8 @@ We evaluate the quality of the PCA-based shape representations by generating syn
 
 ### Principal Component Shape Regression
 
+We visualize deformations from mean shapes along coefficient directions, $\mu_{j} + \hat\beta_{j} V_{j}$ where $\hat\beta_{j}\in\mathbb{R}^{d}$ are the estimated regression coefficients and $V_{j}$ is a matrix of the top singular vectors of the $j^{th}$ object. These deformations highlight structural variations associated with a condition. 
+
 <video controls width="400">
   <source src="videos/Disc_Narrowing_41_91_t2.mp4" type="video/mp4">
 </video>
