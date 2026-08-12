@@ -5,7 +5,7 @@ This repository contains the code and displays some results of the SALSA pipelin
 
 # Pipeline
 
-![SALSA Pipeline](Images/Methodology.pdf)
+![SALSA Pipeline](Images/Methodology.png)
 
 The main code file is main.py which runs the following files (order matters):
 
