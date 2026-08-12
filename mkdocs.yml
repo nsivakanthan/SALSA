@@ -1,0 +1,11 @@
+site_name: SALSA
+site_description: Shape Analysis for Lumbar Spine Assessments
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Methodology: methodology.md
+  - Results: results.md
+  - Reproducibility: reproducibility.md
