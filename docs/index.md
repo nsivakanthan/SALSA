@@ -45,7 +45,7 @@ Here is an example of shapes of L1 Vertebra generated from our shape model.
 
 ### Principal Component Shape Regression
 
-We visualize deformations from mean shapes along coefficient directions, $\mu_{j} + \hat\beta_{j} V_{j}$ where $\hat\beta_{j}\in\mathbb{R}^{d}$ are the estimated regression coefficients and $V_{j}$ is a matrix of the top singular vectors of the $j^{th}$ object. These deformations highlight structural variations associated with a condition. 
+We perform classification of several degenerative spinal conditions using weighted Elastic-Net logistic regression achieving results comparable to black-box methods. We visualize deformations from mean shapes along coefficient directions, $\mu_{j} + \hat\beta_{j} V_{j}$ where $\hat\beta_{j}\in\mathbb{R}^{d}$ are the estimated regression coefficients and $V_{j}$ is a matrix of the top singular vectors of the $j^{th}$ object. These deformations highlight structural variations associated with a condition. 
 
 First, we have the deformations in the L1 Vertebra associated with Disc Narrowing in the T12-L1 Disc.
 <video controls width="400">
