@@ -9,7 +9,9 @@ To see the full results with explanation, feel free to read our paper or visit t
 
 # Pipeline
 
-![SALSA Pipeline](Images/Methodology.png)
+<p align="center">
+  <img src="Images/Methodology.png" width="1000">
+</p>
 
 The main code file is main.py which runs the following files (order matters):
 
@@ -27,7 +29,6 @@ The main code file is main.py which runs the following files (order matters):
 
 # Elastic Registration w/ SRNF:
 
-![SALSA Pipeline](Images/torus_param.jpg)
 <p align="center">
   <img src="Images/torus_param.jpg" width="700">
 </p>
