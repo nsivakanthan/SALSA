@@ -4,7 +4,7 @@
 
 ![SALSA Pipeline](Images/Methodology.png)
 
-## Elastic Matching
+## Elastic Registration of Shapes
 
 ![Torus](Images/torus_param.png)
 
@@ -20,15 +20,19 @@ Here are a few examples of geodesics, the shortest path between two shapes in te
 
 ## Statistical Shape Analysis
 
-Lorem ipsum...
+Once we have obtained registered shapes across our sample, we can perform statistical shape analysis. Our goal is to develop a model for an average shape, quantify variation in terms of deformation fields, and use this information to perform classification of degenerative conditions such as spinal stenosis and pfirrmann grading. 
 
 ### Mean Shape
+
+Here is a display of the mean of the L1 vertebra across our entire sample (right) along with a sample of 6 of the shapes used to generate this mean (left).
 
 <video controls width="800">
   <source src="videos/vertebra41_mean.mp4" type="video/mp4">
 </video>
 
 ### Shape Variation
+
+Once we have generated means for each of our shapes (all vertebra and disc levels), we can perform SVD on the data matrix to obtain the principal modes of deformations for each shape (or pooled shapes with a pooled mean). The top three modes of variation are displayed below as deformation fields starting at the mean.
 
 <video controls width="400">
   <source src="videos/vertebra41_direction1_scale.mp4" type="video/mp4">
