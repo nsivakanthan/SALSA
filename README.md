@@ -35,7 +35,7 @@ The main code file is main.py which runs the following files (order matters):
   <img src="Images/torus_param.png" width="700">
 </p>
 
-The main theoretical contribution of this work comes from improvement of results using Elastic registration. We employ code developed by Bauer et al. and Hartman et al. to register vertebra and discs using the SRNF. This requires downloading code from their github repository and making minimal adjustments to change which functions were being used. An environment must be managed to run their code revolved around the PyKeops package. Their code also requires a linux system to run (can also use WSL). 
+The main theoretical contribution of this work comes from improvement of results using Elastic registration with square root normal fields (SRNF), a registration framework deloped by Jermyn et al.. We employ code developed by Bauer et al. and Hartman et al. to register vertebra and discs using the SRNF. This requires downloading code from their github repository and making minimal adjustments to change which functions were being used. An environment must be managed to run their code revolved around the PyKeops package. Their code also requires a linux system to run (can also use WSL). 
 
 The following code files are used for Elastic Registration:
   
