@@ -3,7 +3,7 @@
 # SALSA
 Shape Analysis for Lumbar Spine Assessments
 
-This repository contains the code and displays some results of the SALSA pipeline. We apply this pipeline to two publicly available datasets: 1.) RSNA-LumbarDisc dataset 2.) SPIDER dataset.
+This repository contains the code and displays some results of the SALSA pipeline. We apply this pipeline to two publicly available datasets: 1.) [RSNA-LumbarDisc dataset](https://mira.rsna.org/dataset/6) 2.) [SPIDER dataset](https://zenodo.org/records/10159290).
 
 # Results:
 
