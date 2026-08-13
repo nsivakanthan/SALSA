@@ -32,7 +32,7 @@ Here is a display of the mean of the L1 vertebra across our entire sample (right
 
 ### Shape Variation
 
-Once we have generated means for each of our shapes (all vertebra and disc levels), we can perform SVD on the data matrix to obtain the principal modes of deformations for each shape (or pooled shapes with a pooled mean). The top three modes of variation are displayed below as deformation fields starting at the mean.
+Once we have generated means for each of our shapes (all vertebra and disc levels), we can perform SVD on the registered shapes to obtain the principal modes of deformations for each shape (or pooled shapes with a pooled mean). The top three modes of variation are displayed below as deformation fields starting at the mean.
 
 <video controls width="400">
   <source src="videos/vertebra41_direction1_scale.mp4" type="video/mp4">
