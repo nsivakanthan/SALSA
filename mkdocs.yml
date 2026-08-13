@@ -7,7 +7,7 @@ repo_url: https://github.com/nsivakanthan/SALSA
 theme:
   name: material
 
-  logo: Images/logo.png
+  logo: Images/logo.gif
   favicon: Images/logo.png
 
   features:
