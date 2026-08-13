@@ -45,19 +45,12 @@ The following code files are used for Elastic Registration:
 
 # Key References:
 ## Elastic Registration-
-Ian Jermyn, Sebatian Kurtek, Hamid Laga, Anuj Srivastava:
-
-Elastic Shape Analysis of Three-dimensional Objects
+Ian Jermyn, Sebatian Kurtek, Hamid Laga, Anuj Srivastava: Elastic Shape Analysis of Three-dimensional Objects
 
 ## SRNF Matching-
-Martin Bauer, Nicolas Charon, Philipp Harms, Hsi-Wei Hsieh:
+Martin Bauer, Nicolas Charon, Philipp Harms, Hsi-Wei Hsieh: A numerical framework for elastic surface matching, comparison, and interpolation.
 
-A numerical framework for elastic surface matching, comparison, and interpolation.
-
-Emmanuel Hartman, Yashil Sukurdeep, Eric Klassen, Nicolas Charon, Martin Bauer:
-
-Elastic Shape Analysis of Surfaces with Second-Order Sobolev Metrics: A Comprehensive Numerical Framework.
+Emmanuel Hartman, Yashil Sukurdeep, Eric Klassen, Nicolas Charon, Martin Bauer: Elastic Shape Analysis of Surfaces with Second-Order Sobolev Metrics: A Comprehensive Numerical Framework.
 
 ## TotalSpineSeg-
-Warszawer et al.
-TotalSpineSeg: Robust Spine Segmentation with Landmark-Based Labeling in MRI.
+Warszawer et al.: TotalSpineSeg: Robust Spine Segmentation with Landmark-Based Labeling in MRI.
