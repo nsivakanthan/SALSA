@@ -12,7 +12,7 @@ The SALSA pipeline starts with extracting shapes of the spine from medical image
 
 With the Elastic registration framework using square root normal fields (SRNF), we register the shapes of lumbar vertebrae and discs across our sample data. The novelty of this work comes from applying Elastic registration with SRNF to toroidal objects (the vertebrae). 
 
-Here are a few examples of geodesics, the shortest path between two shapes in terms of SRNF distance. Each image displays the path between two shapes, with each row being a different viewing angle of that path. For more details, please see the paper.
+Here are a few examples of geodesics, the shortest path between two shapes in terms of SRNF distance. Each image displays the path between two shapes, with each row being a different viewing angle of that path (bottom, top, side). For more details, please see the paper.
 
 ![Geodesic_1](Images/geodesic_1016159409_vertebra42_1001602554_vertebra42_elastic.png)
 
