@@ -6,7 +6,17 @@
 
 ## Elastic Matching
 
-Lorem ipsum...
+![Torus](Images/torus_param.png)
+
+Using the Elastic registration framework, we register the shapes of lumbar vertebrae and discs across our sample data. The novelty of this work is applying the Elastic registration with SRNF to toroidal objects (the vertebrae). 
+
+Here are a few examples of geodesics, the shortest path between two shapes in terms of SRNF distance. For more details, please see the paper.
+
+![Geodesic_1](Images/geodesic_1016159409_vertebra42_1001602554_vertebra42_elastic.png)
+
+![Geodesic_2](Images/geodesic_1017615481_vertebra42_1002625971_vertebra42_elastic.png)
+
+![Geodesic_3](Images/geodesic_1034241723_vertebra42_1002625971_vertebra42_elastic.png)
 
 ## Statistical Shape Analysis
 
