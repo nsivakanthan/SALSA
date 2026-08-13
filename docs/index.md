@@ -4,11 +4,13 @@
 
 ![SALSA Pipeline](Images/Methodology.png)
 
+The SALSA pipeline starts with extracting shapes of the spine from medical images (MRI or CT scans). We use the Spinal Cord Toolbox (SCT) Totalspineseg to segment the spine into its components and then use the Marching Cubes algorithm to obtain the surface of shapes from segmented labels. Once we have these shapes across our entire dataset, we can apply a series of shape analysis tools. With the end goal of creating statistical shape models of the lumbar spine, registration of shapes across our sample is key. We use Elastic registration which we show, in the paper, outperforms other methods. With shapes registered, we can perform statistical analysis: obtaining means, conducting PCA to analyze principal modes of deformations, and finally use this information to classify degenerative spinal conditions. In the paper, we compare our results to recent works which primarily use deep neural networks. Despite using a less complex model for classification, we achieve comparable results with the advantage of our interpretability and visualizes. The following visuals emphasis the advantages that come from using a statistical shape model to understand the morphology of the lumbar spine.
+
 ## Elastic Registration of Shapes
 
 ![Torus](Images/torus_param.png)
 
-Using the Elastic registration framework, we register the shapes of lumbar vertebrae and discs across our sample data. The novelty of this work is applying the Elastic registration with SRNF to toroidal objects (the vertebrae). 
+Using the Elastic registration framework, we register the shapes of lumbar vertebrae and discs across our sample data. The novelty of this work comes from applying Elastic registration with SRNF to toroidal objects (the vertebrae). 
 
 Here are a few examples of geodesics, the shortest path between two shapes in terms of SRNF distance. For more details, please see the paper.
 
