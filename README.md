@@ -7,7 +7,7 @@ This repository contains the code and displays some results of the SALSA pipelin
 
 # Results:
 
-To see the full results with explanation, feel free to read our paper or visit this [website](https://nsivakanthan.github.io/SALSA/)!
+To see the full results with explanation, we invite you to read our paper. We include more visuals on our [website](https://nsivakanthan.github.io/SALSA/).
 
 # Pipeline
 
