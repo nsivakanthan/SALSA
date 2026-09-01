@@ -42,6 +42,8 @@ The following code files are used for Elastic Registration:
   - srnf_reg.py - Register shapes and obtain means on a per shape level.
   
   - srnf_reg_all.py - Register shapes and obtain means pooled between vertebrae and discs, respectively.
+    
+  - srnf_simulation.py - Runs the simulation described in the paper comparing SRNF registration to Hungarian/Jonker-Volgenant Registration. 
 
 # Key References:
 ## Elastic Registration-
